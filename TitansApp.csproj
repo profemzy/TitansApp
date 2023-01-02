@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Content Include=".github\workflows\build-and-push.yaml" />
+    <Content Include=".github\workflows\merge-to-main.yaml" />
   </ItemGroup>
 
 </Project>
